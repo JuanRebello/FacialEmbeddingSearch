@@ -1,0 +1,6 @@
+deepface==0.0.79
+faiss-cpu==1.7.3
+matplotlib==3.7.2
+mtcnn==0.1.1
+numpy==1.24.2
+opencv-python-headless==4.8.0.74
