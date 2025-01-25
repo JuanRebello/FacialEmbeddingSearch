@@ -45,12 +45,12 @@ Certifique-se de que você tenha os seguintes requisitos instalados:
 2. Atualize os caminhos da imagem de referência e da pasta no script principal.
 3. Execute o script:
     ```bash
-    python face_comparison.py
+    python app.py
 5. O programa exibirá as 5 imagens mais similares na pasta, junto com seus percentuais de similaridade, em ordem decrescente. A similaridade é calculada com base na distância euclidiana invertida.
 
 ## Estrutura do Projeto
 
-- **face_comparison.py:** Script principal contendo toda a lógica do sistema.
+- **app.py:** Script principal contendo toda a lógica do sistema.
 - **requirements.txt:** Lista de dependências necessárias para executar o projeto.
 
 ## Contribuição
