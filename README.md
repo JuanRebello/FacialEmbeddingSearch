@@ -24,11 +24,11 @@ Certifique-se de que você tenha os seguintes requisitos instalados:
 
  1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/face-comparison-system.git
+    git clone https://github.com/seu-usuario/FacialEmbeddingSearch.git
 
 2. Acesse o diretório do projeto:
     ```bash
-    cd face-comparison-system
+    cd FacialEmbeddingSearch
 
  3. Crie e ative um ambiente virtual (opcional):
     ```bash
